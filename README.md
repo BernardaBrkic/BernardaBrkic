@@ -26,7 +26,7 @@
 </p>
 
 <br/>
-## ☎️ Connect with me:
+☎️ Connect with me:
 <p align="left">
 
 <a href="mailto:bernarda.brkic1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
