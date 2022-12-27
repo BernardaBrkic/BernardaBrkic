@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning Vue.js framework
+- 🌱 I’m currently learning React.js library
 
 - 📧 How to reach me **bernarda.brkic1@gmail.com**
 
