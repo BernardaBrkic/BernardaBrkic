@@ -1,6 +1,6 @@
 <a href="#"><img width="30% " height="auto" src="https://stories.freepiklabs.com/storage/39369/working-from-anywhere-bro-5330.png" height="175px" /></a>
 
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Bernarda!</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bernarda!</h1>
 <h3>I'm a passionate junior frontend developer from Croatia.</h3><br>
 
 
