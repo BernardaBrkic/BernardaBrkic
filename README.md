@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React.js library
 
-- 📧 How to reach me **bernarda.brkic1@gmail.com**
+- 📧 How to reach me: **bernarda.brkic1@gmail.com**
 
 <br>
 
@@ -33,6 +33,12 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
+<hr/>
+
+### 📈 My stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardaBrkic&layout=compact&theme=vision-friendly-dark)
+
 <hr/>
 
 <br/>
